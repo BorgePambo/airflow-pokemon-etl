@@ -1,0 +1,515 @@
+[2025-05-03T23:20:18.542+0000] {processor.py:161} INFO - Started process (PID=160) to work on /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:20:18.545+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_extraction.py for tasks to queue
+[2025-05-03T23:20:18.567+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:20:18.564+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:20:18.721+0000] {processor.py:840} INFO - DAG(s) 'pokemon_extract' retrieved from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:20:18.754+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:20:18.753+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T23:20:18.919+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:20:18.918+0000] {dag.py:3954} INFO - Setting next_dagrun for pokemon_extract to 2025-05-02 10:00:00+00:00, run_after=2025-05-03 10:00:00+00:00
+[2025-05-03T23:20:18.996+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_extraction.py took 0.524 seconds
+[2025-05-03T23:20:49.190+0000] {processor.py:161} INFO - Started process (PID=165) to work on /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:20:49.192+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_extraction.py for tasks to queue
+[2025-05-03T23:20:49.197+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:20:49.195+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:20:49.246+0000] {processor.py:840} INFO - DAG(s) 'pokemon_extract' retrieved from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:20:49.277+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:20:49.276+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T23:20:49.439+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:20:49.438+0000] {dag.py:3954} INFO - Setting next_dagrun for pokemon_extract to 2025-05-02 10:00:00+00:00, run_after=2025-05-03 10:00:00+00:00
+[2025-05-03T23:20:49.523+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_extraction.py took 0.344 seconds
+[2025-05-03T23:21:19.986+0000] {processor.py:161} INFO - Started process (PID=170) to work on /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:21:19.988+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_extraction.py for tasks to queue
+[2025-05-03T23:21:19.990+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:21:19.989+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:21:20.028+0000] {processor.py:840} INFO - DAG(s) 'pokemon_extract' retrieved from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:21:20.046+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:21:20.046+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T23:21:20.081+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:21:20.081+0000] {dag.py:3954} INFO - Setting next_dagrun for pokemon_extract to 2025-05-02 10:00:00+00:00, run_after=2025-05-03 10:00:00+00:00
+[2025-05-03T23:21:20.112+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_extraction.py took 0.136 seconds
+[2025-05-03T23:21:50.743+0000] {processor.py:161} INFO - Started process (PID=175) to work on /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:21:50.745+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_extraction.py for tasks to queue
+[2025-05-03T23:21:50.748+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:21:50.747+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:21:50.793+0000] {processor.py:840} INFO - DAG(s) 'pokemon_extract' retrieved from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:21:50.815+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:21:50.815+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T23:21:50.860+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:21:50.860+0000] {dag.py:3954} INFO - Setting next_dagrun for pokemon_extract to 2025-05-02 10:00:00+00:00, run_after=2025-05-03 10:00:00+00:00
+[2025-05-03T23:21:50.892+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_extraction.py took 0.160 seconds
+[2025-05-03T23:22:21.730+0000] {processor.py:161} INFO - Started process (PID=180) to work on /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:22:21.732+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_extraction.py for tasks to queue
+[2025-05-03T23:22:21.736+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:22:21.734+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:22:21.777+0000] {processor.py:840} INFO - DAG(s) 'pokemon_extract' retrieved from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:22:21.797+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:22:21.796+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T23:22:21.839+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:22:21.839+0000] {dag.py:3954} INFO - Setting next_dagrun for pokemon_extract to 2025-05-02 10:00:00+00:00, run_after=2025-05-03 10:00:00+00:00
+[2025-05-03T23:22:21.875+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_extraction.py took 0.157 seconds
+[2025-05-03T23:22:52.567+0000] {processor.py:161} INFO - Started process (PID=185) to work on /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:22:52.568+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_extraction.py for tasks to queue
+[2025-05-03T23:22:52.571+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:22:52.570+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:22:52.613+0000] {processor.py:840} INFO - DAG(s) 'pokemon_extract' retrieved from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:22:52.631+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:22:52.630+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T23:22:52.666+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:22:52.666+0000] {dag.py:3954} INFO - Setting next_dagrun for pokemon_extract to 2025-05-02 10:00:00+00:00, run_after=2025-05-03 10:00:00+00:00
+[2025-05-03T23:22:52.696+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_extraction.py took 0.140 seconds
+[2025-05-03T23:23:22.821+0000] {processor.py:161} INFO - Started process (PID=190) to work on /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:23:22.822+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_extraction.py for tasks to queue
+[2025-05-03T23:23:22.825+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:23:22.824+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:23:22.869+0000] {processor.py:840} INFO - DAG(s) 'pokemon_extract' retrieved from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:23:22.894+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:23:22.894+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T23:23:22.942+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:23:22.942+0000] {dag.py:3954} INFO - Setting next_dagrun for pokemon_extract to 2025-05-02 10:00:00+00:00, run_after=2025-05-03 10:00:00+00:00
+[2025-05-03T23:23:22.979+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_extraction.py took 0.166 seconds
+[2025-05-03T23:23:53.697+0000] {processor.py:161} INFO - Started process (PID=195) to work on /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:23:53.699+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_extraction.py for tasks to queue
+[2025-05-03T23:23:53.702+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:23:53.701+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:23:53.757+0000] {processor.py:840} INFO - DAG(s) 'pokemon_extract' retrieved from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:23:53.772+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:23:53.772+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T23:23:53.805+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:23:53.805+0000] {dag.py:3954} INFO - Setting next_dagrun for pokemon_extract to 2025-05-02 10:00:00+00:00, run_after=2025-05-03 10:00:00+00:00
+[2025-05-03T23:23:53.836+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_extraction.py took 0.151 seconds
+[2025-05-03T23:24:24.527+0000] {processor.py:161} INFO - Started process (PID=200) to work on /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:24:24.529+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_extraction.py for tasks to queue
+[2025-05-03T23:24:24.532+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:24:24.531+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:24:24.571+0000] {processor.py:840} INFO - DAG(s) 'pokemon_extract' retrieved from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:24:24.600+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:24:24.599+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T23:24:24.649+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:24:24.648+0000] {dag.py:3954} INFO - Setting next_dagrun for pokemon_extract to 2025-05-02 10:00:00+00:00, run_after=2025-05-03 10:00:00+00:00
+[2025-05-03T23:24:24.687+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_extraction.py took 0.170 seconds
+[2025-05-03T23:24:55.398+0000] {processor.py:161} INFO - Started process (PID=205) to work on /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:24:55.400+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_extraction.py for tasks to queue
+[2025-05-03T23:24:55.402+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:24:55.402+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:24:55.444+0000] {processor.py:840} INFO - DAG(s) 'pokemon_extract' retrieved from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:24:55.465+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:24:55.464+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T23:24:55.509+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:24:55.509+0000] {dag.py:3954} INFO - Setting next_dagrun for pokemon_extract to 2025-05-02 10:00:00+00:00, run_after=2025-05-03 10:00:00+00:00
+[2025-05-03T23:24:55.548+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_extraction.py took 0.159 seconds
+[2025-05-03T23:25:26.400+0000] {processor.py:161} INFO - Started process (PID=210) to work on /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:25:26.401+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_extraction.py for tasks to queue
+[2025-05-03T23:25:26.405+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:25:26.404+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:25:26.457+0000] {processor.py:840} INFO - DAG(s) 'pokemon_extract' retrieved from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:25:26.484+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:25:26.483+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T23:25:26.528+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:25:26.527+0000] {dag.py:3954} INFO - Setting next_dagrun for pokemon_extract to 2025-05-02 10:00:00+00:00, run_after=2025-05-03 10:00:00+00:00
+[2025-05-03T23:25:26.564+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_extraction.py took 0.175 seconds
+[2025-05-03T23:25:57.162+0000] {processor.py:161} INFO - Started process (PID=215) to work on /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:25:57.163+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_extraction.py for tasks to queue
+[2025-05-03T23:25:57.166+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:25:57.165+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:25:57.209+0000] {processor.py:840} INFO - DAG(s) 'pokemon_extract' retrieved from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:25:57.229+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:25:57.228+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T23:25:57.264+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:25:57.264+0000] {dag.py:3954} INFO - Setting next_dagrun for pokemon_extract to 2025-05-02 10:00:00+00:00, run_after=2025-05-03 10:00:00+00:00
+[2025-05-03T23:25:57.296+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_extraction.py took 0.144 seconds
+[2025-05-03T23:26:28.094+0000] {processor.py:161} INFO - Started process (PID=220) to work on /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:26:28.098+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_extraction.py for tasks to queue
+[2025-05-03T23:26:28.101+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:26:28.100+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:26:28.142+0000] {processor.py:840} INFO - DAG(s) 'pokemon_extract' retrieved from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:26:28.163+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:26:28.163+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T23:26:28.217+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:26:28.216+0000] {dag.py:3954} INFO - Setting next_dagrun for pokemon_extract to 2025-05-02 10:00:00+00:00, run_after=2025-05-03 10:00:00+00:00
+[2025-05-03T23:26:28.260+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_extraction.py took 0.176 seconds
+[2025-05-03T23:26:58.867+0000] {processor.py:161} INFO - Started process (PID=225) to work on /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:26:58.869+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_extraction.py for tasks to queue
+[2025-05-03T23:26:58.872+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:26:58.871+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:26:58.912+0000] {processor.py:840} INFO - DAG(s) 'pokemon_extract' retrieved from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:26:58.933+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:26:58.932+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T23:26:58.978+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:26:58.977+0000] {dag.py:3954} INFO - Setting next_dagrun for pokemon_extract to 2025-05-02 10:00:00+00:00, run_after=2025-05-03 10:00:00+00:00
+[2025-05-03T23:26:59.018+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_extraction.py took 0.161 seconds
+[2025-05-03T23:27:29.659+0000] {processor.py:161} INFO - Started process (PID=230) to work on /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:27:29.660+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_extraction.py for tasks to queue
+[2025-05-03T23:27:29.664+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:27:29.663+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:27:29.711+0000] {processor.py:840} INFO - DAG(s) 'pokemon_extract' retrieved from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:27:29.732+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:27:29.731+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T23:27:29.780+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:27:29.779+0000] {dag.py:3954} INFO - Setting next_dagrun for pokemon_extract to 2025-05-02 10:00:00+00:00, run_after=2025-05-03 10:00:00+00:00
+[2025-05-03T23:27:29.815+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_extraction.py took 0.169 seconds
+[2025-05-03T23:28:00.590+0000] {processor.py:161} INFO - Started process (PID=235) to work on /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:28:00.591+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_extraction.py for tasks to queue
+[2025-05-03T23:28:00.595+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:28:00.594+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:28:00.639+0000] {processor.py:840} INFO - DAG(s) 'pokemon_extract' retrieved from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:28:00.654+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:28:00.654+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T23:28:00.693+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:28:00.693+0000] {dag.py:3954} INFO - Setting next_dagrun for pokemon_extract to 2025-05-02 10:00:00+00:00, run_after=2025-05-03 10:00:00+00:00
+[2025-05-03T23:28:00.736+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_extraction.py took 0.159 seconds
+[2025-05-03T23:28:31.430+0000] {processor.py:161} INFO - Started process (PID=240) to work on /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:28:31.433+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_extraction.py for tasks to queue
+[2025-05-03T23:28:31.436+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:28:31.436+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:28:31.494+0000] {processor.py:840} INFO - DAG(s) 'pokemon_extract' retrieved from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:28:31.529+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:28:31.529+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T23:28:31.652+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:28:31.652+0000] {dag.py:3954} INFO - Setting next_dagrun for pokemon_extract to 2025-05-02 10:00:00+00:00, run_after=2025-05-03 10:00:00+00:00
+[2025-05-03T23:28:31.714+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_extraction.py took 0.296 seconds
+[2025-05-03T23:29:02.353+0000] {processor.py:161} INFO - Started process (PID=245) to work on /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:29:02.354+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_extraction.py for tasks to queue
+[2025-05-03T23:29:02.357+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:29:02.357+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:29:02.389+0000] {processor.py:840} INFO - DAG(s) 'pokemon_extract' retrieved from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:29:02.425+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:29:02.424+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T23:29:02.464+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:29:02.463+0000] {dag.py:3954} INFO - Setting next_dagrun for pokemon_extract to 2025-05-02 10:00:00+00:00, run_after=2025-05-03 10:00:00+00:00
+[2025-05-03T23:29:02.494+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_extraction.py took 0.151 seconds
+[2025-05-03T23:29:33.314+0000] {processor.py:161} INFO - Started process (PID=250) to work on /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:29:33.315+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_extraction.py for tasks to queue
+[2025-05-03T23:29:33.318+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:29:33.317+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:29:33.378+0000] {processor.py:840} INFO - DAG(s) 'pokemon_extract' retrieved from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:29:33.401+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:29:33.400+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T23:29:33.464+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:29:33.464+0000] {dag.py:3954} INFO - Setting next_dagrun for pokemon_extract to 2025-05-02 10:00:00+00:00, run_after=2025-05-03 10:00:00+00:00
+[2025-05-03T23:29:33.516+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_extraction.py took 0.211 seconds
+[2025-05-03T23:30:04.215+0000] {processor.py:161} INFO - Started process (PID=257) to work on /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:30:04.216+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_extraction.py for tasks to queue
+[2025-05-03T23:30:04.222+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:30:04.220+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:30:04.391+0000] {processor.py:840} INFO - DAG(s) 'pokemon_extract' retrieved from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:30:04.427+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:30:04.427+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T23:30:04.883+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_extraction.py took 0.683 seconds
+[2025-05-03T23:30:35.290+0000] {processor.py:161} INFO - Started process (PID=262) to work on /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:30:35.292+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_extraction.py for tasks to queue
+[2025-05-03T23:30:35.296+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:30:35.295+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:30:35.371+0000] {processor.py:840} INFO - DAG(s) 'pokemon_extract' retrieved from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:30:35.394+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:30:35.394+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T23:30:35.495+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_extraction.py took 0.214 seconds
+[2025-05-03T23:31:06.056+0000] {processor.py:161} INFO - Started process (PID=267) to work on /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:31:06.058+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_extraction.py for tasks to queue
+[2025-05-03T23:31:06.060+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:31:06.059+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:31:06.095+0000] {processor.py:840} INFO - DAG(s) 'pokemon_extract' retrieved from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:31:06.118+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:31:06.117+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T23:31:06.193+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_extraction.py took 0.147 seconds
+[2025-05-03T23:31:36.271+0000] {processor.py:161} INFO - Started process (PID=272) to work on /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:31:36.273+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_extraction.py for tasks to queue
+[2025-05-03T23:31:36.276+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:31:36.275+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:31:36.318+0000] {processor.py:840} INFO - DAG(s) 'pokemon_extract' retrieved from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:31:36.892+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:31:36.891+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T23:31:36.974+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_extraction.py took 0.160 seconds
+[2025-05-03T23:32:07.282+0000] {processor.py:161} INFO - Started process (PID=277) to work on /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:32:07.283+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_extraction.py for tasks to queue
+[2025-05-03T23:32:07.287+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:32:07.286+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:32:07.373+0000] {processor.py:840} INFO - DAG(s) 'pokemon_extract' retrieved from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:32:07.423+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:32:07.411+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T23:32:07.530+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_extraction.py took 0.263 seconds
+[2025-05-03T23:32:38.046+0000] {processor.py:161} INFO - Started process (PID=282) to work on /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:32:38.048+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_extraction.py for tasks to queue
+[2025-05-03T23:32:38.050+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:32:38.050+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:32:38.085+0000] {processor.py:840} INFO - DAG(s) 'pokemon_extract' retrieved from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:32:38.105+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:32:38.104+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T23:32:38.173+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_extraction.py took 0.136 seconds
+[2025-05-03T23:33:08.917+0000] {processor.py:161} INFO - Started process (PID=287) to work on /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:33:08.919+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_extraction.py for tasks to queue
+[2025-05-03T23:33:08.921+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:33:08.921+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:33:08.953+0000] {processor.py:840} INFO - DAG(s) 'pokemon_extract' retrieved from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:33:08.971+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:33:08.970+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T23:33:09.069+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_extraction.py took 0.163 seconds
+[2025-05-03T23:33:40.014+0000] {processor.py:161} INFO - Started process (PID=292) to work on /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:33:40.016+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_extraction.py for tasks to queue
+[2025-05-03T23:33:40.020+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:33:40.019+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:33:40.068+0000] {processor.py:840} INFO - DAG(s) 'pokemon_extract' retrieved from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:33:40.092+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:33:40.091+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T23:33:40.215+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_extraction.py took 0.214 seconds
+[2025-05-03T23:34:10.916+0000] {processor.py:161} INFO - Started process (PID=297) to work on /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:34:10.917+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_extraction.py for tasks to queue
+[2025-05-03T23:34:10.921+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:34:10.920+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:34:10.969+0000] {processor.py:840} INFO - DAG(s) 'pokemon_extract' retrieved from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:34:10.990+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:34:10.989+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T23:34:11.146+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_extraction.py took 0.240 seconds
+[2025-05-03T23:34:41.953+0000] {processor.py:161} INFO - Started process (PID=302) to work on /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:34:41.955+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_extraction.py for tasks to queue
+[2025-05-03T23:34:41.958+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:34:41.957+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:34:41.994+0000] {processor.py:840} INFO - DAG(s) 'pokemon_extract' retrieved from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:34:42.026+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:34:42.026+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T23:34:42.112+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_extraction.py took 0.168 seconds
+[2025-05-03T23:35:12.941+0000] {processor.py:161} INFO - Started process (PID=307) to work on /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:35:12.943+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_extraction.py for tasks to queue
+[2025-05-03T23:35:12.945+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:35:12.944+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:35:12.982+0000] {processor.py:840} INFO - DAG(s) 'pokemon_extract' retrieved from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:35:13.000+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:35:13.000+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T23:35:13.070+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_extraction.py took 0.139 seconds
+[2025-05-03T23:35:43.878+0000] {processor.py:161} INFO - Started process (PID=312) to work on /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:35:43.881+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_extraction.py for tasks to queue
+[2025-05-03T23:35:43.884+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:35:43.883+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:35:43.923+0000] {processor.py:840} INFO - DAG(s) 'pokemon_extract' retrieved from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:35:43.941+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:35:43.941+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T23:35:44.041+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_extraction.py took 0.174 seconds
+[2025-05-03T23:36:14.785+0000] {processor.py:161} INFO - Started process (PID=317) to work on /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:36:14.786+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_extraction.py for tasks to queue
+[2025-05-03T23:36:14.789+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:36:14.788+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:36:14.844+0000] {processor.py:840} INFO - DAG(s) 'pokemon_extract' retrieved from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:36:14.898+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:36:14.898+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T23:36:15.030+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_extraction.py took 0.255 seconds
+[2025-05-03T23:36:45.800+0000] {processor.py:161} INFO - Started process (PID=324) to work on /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:36:45.803+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_extraction.py for tasks to queue
+[2025-05-03T23:36:45.807+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:36:45.806+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:36:45.845+0000] {processor.py:840} INFO - DAG(s) 'pokemon_extract' retrieved from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:36:45.862+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:36:45.862+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T23:36:45.958+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_extraction.py took 0.170 seconds
+[2025-05-03T23:37:16.799+0000] {processor.py:161} INFO - Started process (PID=329) to work on /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:37:16.800+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_extraction.py for tasks to queue
+[2025-05-03T23:37:16.804+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:37:16.804+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:37:16.861+0000] {processor.py:840} INFO - DAG(s) 'pokemon_extract' retrieved from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:37:16.886+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:37:16.885+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T23:37:16.969+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_extraction.py took 0.180 seconds
+[2025-05-03T23:37:47.680+0000] {processor.py:161} INFO - Started process (PID=334) to work on /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:37:47.681+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_extraction.py for tasks to queue
+[2025-05-03T23:37:47.685+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:37:47.684+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:37:47.740+0000] {processor.py:840} INFO - DAG(s) 'pokemon_extract' retrieved from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:37:47.771+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:37:47.770+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T23:37:47.953+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_extraction.py took 0.285 seconds
+[2025-05-03T23:38:18.920+0000] {processor.py:161} INFO - Started process (PID=339) to work on /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:38:18.922+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_extraction.py for tasks to queue
+[2025-05-03T23:38:18.928+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:38:18.927+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:38:18.995+0000] {processor.py:840} INFO - DAG(s) 'pokemon_extract' retrieved from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:38:19.014+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:38:19.013+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T23:38:19.087+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_extraction.py took 0.193 seconds
+[2025-05-03T23:38:49.217+0000] {processor.py:161} INFO - Started process (PID=344) to work on /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:38:49.219+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_extraction.py for tasks to queue
+[2025-05-03T23:38:49.225+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:38:49.224+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:38:49.294+0000] {processor.py:840} INFO - DAG(s) 'pokemon_extract' retrieved from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:38:49.308+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:38:49.308+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T23:38:49.374+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_extraction.py took 0.165 seconds
+[2025-05-03T23:39:20.146+0000] {processor.py:161} INFO - Started process (PID=349) to work on /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:39:20.147+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_extraction.py for tasks to queue
+[2025-05-03T23:39:20.151+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:39:20.150+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:39:20.192+0000] {processor.py:840} INFO - DAG(s) 'pokemon_extract' retrieved from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:39:20.251+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:39:20.250+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T23:39:20.783+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_extraction.py took 0.652 seconds
+[2025-05-03T23:39:51.250+0000] {processor.py:161} INFO - Started process (PID=354) to work on /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:39:51.253+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_extraction.py for tasks to queue
+[2025-05-03T23:39:51.256+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:39:51.255+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:39:51.315+0000] {processor.py:840} INFO - DAG(s) 'pokemon_extract' retrieved from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:39:51.339+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:39:51.338+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T23:39:51.410+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_extraction.py took 0.173 seconds
+[2025-05-03T23:40:21.574+0000] {processor.py:161} INFO - Started process (PID=359) to work on /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:40:21.576+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_extraction.py for tasks to queue
+[2025-05-03T23:40:21.579+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:40:21.578+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:40:21.629+0000] {processor.py:840} INFO - DAG(s) 'pokemon_extract' retrieved from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:40:21.680+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:40:21.671+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T23:40:21.774+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_extraction.py took 0.212 seconds
+[2025-05-03T23:40:52.369+0000] {processor.py:161} INFO - Started process (PID=364) to work on /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:40:52.371+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_extraction.py for tasks to queue
+[2025-05-03T23:40:52.374+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:40:52.374+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:40:52.436+0000] {processor.py:840} INFO - DAG(s) 'pokemon_extract' retrieved from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:40:52.471+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:40:52.471+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T23:40:52.570+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_extraction.py took 0.217 seconds
+[2025-05-03T23:41:23.412+0000] {processor.py:161} INFO - Started process (PID=369) to work on /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:41:23.413+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_extraction.py for tasks to queue
+[2025-05-03T23:41:23.419+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:41:23.418+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:41:23.481+0000] {processor.py:840} INFO - DAG(s) 'pokemon_extract' retrieved from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:41:23.523+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:41:23.522+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T23:41:23.653+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_extraction.py took 0.251 seconds
+[2025-05-03T23:41:54.415+0000] {processor.py:161} INFO - Started process (PID=374) to work on /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:41:54.419+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_extraction.py for tasks to queue
+[2025-05-03T23:41:54.427+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:41:54.426+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:41:54.537+0000] {processor.py:840} INFO - DAG(s) 'pokemon_extract' retrieved from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:41:54.571+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:41:54.571+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T23:41:54.613+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:41:54.612+0000] {dag.py:3954} INFO - Setting next_dagrun for pokemon_extract to 2025-05-03 10:00:00+00:00, run_after=2025-05-04 10:00:00+00:00
+[2025-05-03T23:41:54.641+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_extraction.py took 0.247 seconds
+[2025-05-03T23:41:55.572+0000] {processor.py:161} INFO - Started process (PID=379) to work on /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:41:55.574+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_extraction.py for tasks to queue
+[2025-05-03T23:41:55.578+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:41:55.577+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:41:55.691+0000] {processor.py:840} INFO - DAG(s) 'pokemon_extract' retrieved from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:41:55.711+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:41:55.711+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T23:41:55.757+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:41:55.756+0000] {dag.py:3954} INFO - Setting next_dagrun for pokemon_extract to 2025-05-03 10:00:00+00:00, run_after=2025-05-04 10:00:00+00:00
+[2025-05-03T23:41:55.803+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_extraction.py took 0.247 seconds
+[2025-05-03T23:42:26.555+0000] {processor.py:161} INFO - Started process (PID=384) to work on /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:42:26.557+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_extraction.py for tasks to queue
+[2025-05-03T23:42:26.561+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:42:26.560+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:42:26.605+0000] {processor.py:840} INFO - DAG(s) 'pokemon_extract' retrieved from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:42:26.625+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:42:26.624+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T23:42:26.671+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:42:26.671+0000] {dag.py:3954} INFO - Setting next_dagrun for pokemon_extract to 2025-05-03 10:00:00+00:00, run_after=2025-05-04 10:00:00+00:00
+[2025-05-03T23:42:26.714+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_extraction.py took 0.170 seconds
+[2025-05-03T23:42:57.534+0000] {processor.py:161} INFO - Started process (PID=389) to work on /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:42:57.536+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_extraction.py for tasks to queue
+[2025-05-03T23:42:57.540+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:42:57.539+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:42:57.575+0000] {processor.py:840} INFO - DAG(s) 'pokemon_extract' retrieved from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:42:57.592+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:42:57.591+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T23:42:57.634+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:42:57.633+0000] {dag.py:3954} INFO - Setting next_dagrun for pokemon_extract to 2025-05-03 10:00:00+00:00, run_after=2025-05-04 10:00:00+00:00
+[2025-05-03T23:42:57.689+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_extraction.py took 0.164 seconds
+[2025-05-03T23:43:28.361+0000] {processor.py:161} INFO - Started process (PID=394) to work on /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:43:28.362+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_extraction.py for tasks to queue
+[2025-05-03T23:43:28.365+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:43:28.365+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:43:28.405+0000] {processor.py:840} INFO - DAG(s) 'pokemon_extract' retrieved from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:43:28.422+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:43:28.422+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T23:43:28.478+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:43:28.478+0000] {dag.py:3954} INFO - Setting next_dagrun for pokemon_extract to 2025-05-03 10:00:00+00:00, run_after=2025-05-04 10:00:00+00:00
+[2025-05-03T23:43:28.544+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_extraction.py took 0.192 seconds
+[2025-05-03T23:43:59.429+0000] {processor.py:161} INFO - Started process (PID=399) to work on /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:43:59.431+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_extraction.py for tasks to queue
+[2025-05-03T23:43:59.442+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:43:59.441+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:43:59.535+0000] {processor.py:840} INFO - DAG(s) 'pokemon_extract' retrieved from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:43:59.567+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:43:59.567+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T23:43:59.677+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:43:59.677+0000] {dag.py:3954} INFO - Setting next_dagrun for pokemon_extract to 2025-05-03 10:00:00+00:00, run_after=2025-05-04 10:00:00+00:00
+[2025-05-03T23:43:59.758+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_extraction.py took 0.351 seconds
+[2025-05-03T23:44:30.242+0000] {processor.py:161} INFO - Started process (PID=406) to work on /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:44:30.245+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_extraction.py for tasks to queue
+[2025-05-03T23:44:30.250+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:44:30.250+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:44:30.339+0000] {processor.py:840} INFO - DAG(s) 'pokemon_extract' retrieved from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:44:30.383+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:44:30.382+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T23:44:30.527+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_extraction.py took 0.300 seconds
+[2025-05-03T23:45:01.056+0000] {processor.py:161} INFO - Started process (PID=411) to work on /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:45:01.057+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_extraction.py for tasks to queue
+[2025-05-03T23:45:01.060+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:45:01.059+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:45:01.097+0000] {processor.py:840} INFO - DAG(s) 'pokemon_extract' retrieved from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:45:01.120+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:45:01.119+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T23:45:01.218+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_extraction.py took 0.170 seconds
+[2025-05-03T23:45:31.890+0000] {processor.py:161} INFO - Started process (PID=416) to work on /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:45:31.891+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_extraction.py for tasks to queue
+[2025-05-03T23:45:31.894+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:45:31.894+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:45:31.927+0000] {processor.py:840} INFO - DAG(s) 'pokemon_extract' retrieved from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:45:31.944+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:45:31.943+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T23:45:32.005+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_extraction.py took 0.125 seconds
+[2025-05-03T23:46:02.830+0000] {processor.py:161} INFO - Started process (PID=421) to work on /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:46:02.831+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_extraction.py for tasks to queue
+[2025-05-03T23:46:02.833+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:46:02.833+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:46:02.873+0000] {processor.py:840} INFO - DAG(s) 'pokemon_extract' retrieved from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:46:02.933+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:46:02.933+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T23:46:03.008+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_extraction.py took 0.187 seconds
+[2025-05-03T23:46:33.662+0000] {processor.py:161} INFO - Started process (PID=426) to work on /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:46:33.663+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_extraction.py for tasks to queue
+[2025-05-03T23:46:33.666+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:46:33.665+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:46:33.702+0000] {processor.py:840} INFO - DAG(s) 'pokemon_extract' retrieved from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:46:33.729+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:46:33.729+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T23:46:33.864+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_extraction.py took 0.212 seconds
+[2025-05-03T23:47:04.653+0000] {processor.py:161} INFO - Started process (PID=431) to work on /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:47:04.655+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_extraction.py for tasks to queue
+[2025-05-03T23:47:04.658+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:47:04.657+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:47:04.704+0000] {processor.py:840} INFO - DAG(s) 'pokemon_extract' retrieved from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:47:04.723+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:47:04.723+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T23:47:04.885+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_extraction.py took 0.241 seconds
+[2025-05-03T23:47:35.478+0000] {processor.py:161} INFO - Started process (PID=436) to work on /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:47:35.480+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_extraction.py for tasks to queue
+[2025-05-03T23:47:35.482+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:47:35.482+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:47:35.529+0000] {processor.py:840} INFO - DAG(s) 'pokemon_extract' retrieved from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:47:35.551+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:47:35.550+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T23:47:35.627+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_extraction.py took 0.161 seconds
+[2025-05-03T23:48:06.314+0000] {processor.py:161} INFO - Started process (PID=441) to work on /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:48:06.320+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_extraction.py for tasks to queue
+[2025-05-03T23:48:06.324+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:48:06.323+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:48:06.457+0000] {processor.py:840} INFO - DAG(s) 'pokemon_extract' retrieved from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:48:06.475+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:48:06.475+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T23:48:06.543+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_extraction.py took 0.253 seconds
+[2025-05-03T23:48:37.333+0000] {processor.py:161} INFO - Started process (PID=448) to work on /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:48:37.336+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_extraction.py for tasks to queue
+[2025-05-03T23:48:37.340+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:48:37.339+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:48:37.404+0000] {processor.py:840} INFO - DAG(s) 'pokemon_extract' retrieved from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:48:37.419+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:48:37.419+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T23:48:37.485+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_extraction.py took 0.166 seconds
+[2025-05-03T23:49:07.554+0000] {processor.py:161} INFO - Started process (PID=453) to work on /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:49:07.556+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_extraction.py for tasks to queue
+[2025-05-03T23:49:07.558+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:49:07.558+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:49:08.220+0000] {processor.py:840} INFO - DAG(s) 'pokemon_extract' retrieved from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:49:08.277+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:49:08.276+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T23:49:08.657+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_extraction.py took 0.510 seconds
+[2025-05-03T23:49:38.869+0000] {processor.py:161} INFO - Started process (PID=458) to work on /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:49:38.871+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_extraction.py for tasks to queue
+[2025-05-03T23:49:38.874+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:49:38.873+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:49:38.915+0000] {processor.py:840} INFO - DAG(s) 'pokemon_extract' retrieved from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:49:38.939+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:49:38.939+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T23:49:39.020+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_extraction.py took 0.162 seconds
+[2025-05-03T23:50:09.749+0000] {processor.py:161} INFO - Started process (PID=463) to work on /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:50:09.751+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_extraction.py for tasks to queue
+[2025-05-03T23:50:09.753+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:50:09.753+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:50:09.786+0000] {processor.py:840} INFO - DAG(s) 'pokemon_extract' retrieved from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:50:09.804+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:50:09.803+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T23:50:09.874+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_extraction.py took 0.137 seconds
+[2025-05-03T23:50:40.745+0000] {processor.py:161} INFO - Started process (PID=468) to work on /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:50:40.746+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_extraction.py for tasks to queue
+[2025-05-03T23:50:40.750+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:50:40.749+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:50:40.789+0000] {processor.py:840} INFO - DAG(s) 'pokemon_extract' retrieved from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:50:40.806+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:50:40.805+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T23:50:40.876+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_extraction.py took 0.140 seconds
+[2025-05-03T23:51:11.555+0000] {processor.py:161} INFO - Started process (PID=473) to work on /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:51:11.556+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_extraction.py for tasks to queue
+[2025-05-03T23:51:11.559+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:51:11.558+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:51:11.594+0000] {processor.py:840} INFO - DAG(s) 'pokemon_extract' retrieved from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:51:11.611+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:51:11.610+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T23:51:11.680+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_extraction.py took 0.133 seconds
+[2025-05-03T23:51:42.561+0000] {processor.py:161} INFO - Started process (PID=478) to work on /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:51:42.563+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_extraction.py for tasks to queue
+[2025-05-03T23:51:42.566+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:51:42.565+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:51:42.609+0000] {processor.py:840} INFO - DAG(s) 'pokemon_extract' retrieved from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:51:42.629+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:51:42.628+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T23:51:42.755+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_extraction.py took 0.204 seconds
+[2025-05-03T23:52:13.478+0000] {processor.py:161} INFO - Started process (PID=483) to work on /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:52:13.479+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_extraction.py for tasks to queue
+[2025-05-03T23:52:13.482+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:52:13.481+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:52:13.512+0000] {processor.py:840} INFO - DAG(s) 'pokemon_extract' retrieved from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:52:13.534+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:52:13.534+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T23:52:13.582+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:52:13.582+0000] {dag.py:3954} INFO - Setting next_dagrun for pokemon_extract to 2025-05-03 10:00:00+00:00, run_after=2025-05-04 10:00:00+00:00
+[2025-05-03T23:52:13.617+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_extraction.py took 0.150 seconds
+[2025-05-03T23:52:44.373+0000] {processor.py:161} INFO - Started process (PID=488) to work on /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:52:44.375+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_extraction.py for tasks to queue
+[2025-05-03T23:52:44.381+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:52:44.379+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:52:44.442+0000] {processor.py:840} INFO - DAG(s) 'pokemon_extract' retrieved from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:52:44.476+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:52:44.476+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T23:52:44.532+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:52:44.531+0000] {dag.py:3954} INFO - Setting next_dagrun for pokemon_extract to 2025-05-03 10:00:00+00:00, run_after=2025-05-04 10:00:00+00:00
+[2025-05-03T23:52:44.567+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_extraction.py took 0.217 seconds
+[2025-05-03T23:53:15.229+0000] {processor.py:161} INFO - Started process (PID=493) to work on /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:53:15.231+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_extraction.py for tasks to queue
+[2025-05-03T23:53:15.234+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:53:15.233+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:53:15.276+0000] {processor.py:840} INFO - DAG(s) 'pokemon_extract' retrieved from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:53:15.294+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:53:15.294+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T23:53:15.334+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:53:15.334+0000] {dag.py:3954} INFO - Setting next_dagrun for pokemon_extract to 2025-05-03 10:00:00+00:00, run_after=2025-05-04 10:00:00+00:00
+[2025-05-03T23:53:15.366+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_extraction.py took 0.147 seconds
+[2025-05-03T23:53:46.015+0000] {processor.py:161} INFO - Started process (PID=498) to work on /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:53:46.017+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_extraction.py for tasks to queue
+[2025-05-03T23:53:46.020+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:53:46.019+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:53:46.053+0000] {processor.py:840} INFO - DAG(s) 'pokemon_extract' retrieved from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:53:46.070+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:53:46.069+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T23:53:46.109+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:53:46.108+0000] {dag.py:3954} INFO - Setting next_dagrun for pokemon_extract to 2025-05-03 10:00:00+00:00, run_after=2025-05-04 10:00:00+00:00
+[2025-05-03T23:53:46.138+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_extraction.py took 0.143 seconds
+[2025-05-03T23:54:17.031+0000] {processor.py:161} INFO - Started process (PID=503) to work on /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:54:17.033+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_extraction.py for tasks to queue
+[2025-05-03T23:54:17.036+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:54:17.035+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:54:17.080+0000] {processor.py:840} INFO - DAG(s) 'pokemon_extract' retrieved from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:54:17.098+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:54:17.097+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T23:54:17.145+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:54:17.145+0000] {dag.py:3954} INFO - Setting next_dagrun for pokemon_extract to 2025-05-03 10:00:00+00:00, run_after=2025-05-04 10:00:00+00:00
+[2025-05-03T23:54:17.177+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_extraction.py took 0.156 seconds
+[2025-05-03T23:54:47.913+0000] {processor.py:161} INFO - Started process (PID=508) to work on /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:54:47.915+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_extraction.py for tasks to queue
+[2025-05-03T23:54:47.920+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:54:47.920+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:54:47.957+0000] {processor.py:840} INFO - DAG(s) 'pokemon_extract' retrieved from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:54:47.974+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:54:47.974+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T23:54:48.015+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:54:48.014+0000] {dag.py:3954} INFO - Setting next_dagrun for pokemon_extract to 2025-05-03 10:00:00+00:00, run_after=2025-05-04 10:00:00+00:00
+[2025-05-03T23:54:48.044+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_extraction.py took 0.143 seconds
+[2025-05-03T23:55:18.819+0000] {processor.py:161} INFO - Started process (PID=513) to work on /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:55:18.821+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_extraction.py for tasks to queue
+[2025-05-03T23:55:18.823+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:55:18.823+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:55:18.857+0000] {processor.py:840} INFO - DAG(s) 'pokemon_extract' retrieved from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:55:18.875+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:55:18.874+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T23:55:18.920+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:55:18.919+0000] {dag.py:3954} INFO - Setting next_dagrun for pokemon_extract to 2025-05-03 10:00:00+00:00, run_after=2025-05-04 10:00:00+00:00
+[2025-05-03T23:55:18.952+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_extraction.py took 0.143 seconds
+[2025-05-03T23:55:49.715+0000] {processor.py:161} INFO - Started process (PID=518) to work on /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:55:49.717+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_extraction.py for tasks to queue
+[2025-05-03T23:55:49.720+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:55:49.719+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:55:49.763+0000] {processor.py:840} INFO - DAG(s) 'pokemon_extract' retrieved from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:55:49.781+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:55:49.781+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T23:55:49.822+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:55:49.822+0000] {dag.py:3954} INFO - Setting next_dagrun for pokemon_extract to 2025-05-03 10:00:00+00:00, run_after=2025-05-04 10:00:00+00:00
+[2025-05-03T23:55:49.852+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_extraction.py took 0.147 seconds
+[2025-05-03T23:56:20.683+0000] {processor.py:161} INFO - Started process (PID=523) to work on /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:56:20.684+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_extraction.py for tasks to queue
+[2025-05-03T23:56:20.689+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:56:20.687+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:56:20.747+0000] {processor.py:840} INFO - DAG(s) 'pokemon_extract' retrieved from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:56:20.798+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:56:20.797+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T23:56:20.898+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:56:20.898+0000] {dag.py:3954} INFO - Setting next_dagrun for pokemon_extract to 2025-05-03 10:00:00+00:00, run_after=2025-05-04 10:00:00+00:00
+[2025-05-03T23:56:20.961+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_extraction.py took 0.292 seconds
+[2025-05-03T23:56:51.611+0000] {processor.py:161} INFO - Started process (PID=528) to work on /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:56:51.613+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_extraction.py for tasks to queue
+[2025-05-03T23:56:51.622+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:56:51.621+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:56:51.675+0000] {processor.py:840} INFO - DAG(s) 'pokemon_extract' retrieved from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:56:51.707+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:56:51.707+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T23:56:51.780+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:56:51.780+0000] {dag.py:3954} INFO - Setting next_dagrun for pokemon_extract to 2025-05-03 10:00:00+00:00, run_after=2025-05-04 10:00:00+00:00
+[2025-05-03T23:56:51.849+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_extraction.py took 0.255 seconds
+[2025-05-03T23:57:22.800+0000] {processor.py:161} INFO - Started process (PID=533) to work on /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:57:22.806+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_extraction.py for tasks to queue
+[2025-05-03T23:57:22.815+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:57:22.814+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:57:22.992+0000] {processor.py:840} INFO - DAG(s) 'pokemon_extract' retrieved from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:57:23.025+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:57:23.025+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T23:57:23.066+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:57:23.066+0000] {dag.py:3954} INFO - Setting next_dagrun for pokemon_extract to 2025-05-03 10:00:00+00:00, run_after=2025-05-04 10:00:00+00:00
+[2025-05-03T23:57:23.109+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_extraction.py took 0.325 seconds
+[2025-05-03T23:57:53.368+0000] {processor.py:161} INFO - Started process (PID=538) to work on /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:57:53.369+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_extraction.py for tasks to queue
+[2025-05-03T23:57:53.372+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:57:53.371+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:57:53.412+0000] {processor.py:840} INFO - DAG(s) 'pokemon_extract' retrieved from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:57:53.434+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:57:53.434+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T23:57:53.476+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:57:53.476+0000] {dag.py:3954} INFO - Setting next_dagrun for pokemon_extract to 2025-05-03 10:00:00+00:00, run_after=2025-05-04 10:00:00+00:00
+[2025-05-03T23:57:53.519+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_extraction.py took 0.160 seconds
+[2025-05-03T23:58:23.715+0000] {processor.py:161} INFO - Started process (PID=543) to work on /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:58:23.717+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_extraction.py for tasks to queue
+[2025-05-03T23:58:23.720+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:58:23.720+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:58:23.764+0000] {processor.py:840} INFO - DAG(s) 'pokemon_extract' retrieved from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:58:23.788+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:58:23.787+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T23:58:23.842+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:58:23.842+0000] {dag.py:3954} INFO - Setting next_dagrun for pokemon_extract to 2025-05-03 10:00:00+00:00, run_after=2025-05-04 10:00:00+00:00
+[2025-05-03T23:58:23.892+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_extraction.py took 0.185 seconds
+[2025-05-03T23:58:54.607+0000] {processor.py:161} INFO - Started process (PID=548) to work on /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:58:54.610+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_extraction.py for tasks to queue
+[2025-05-03T23:58:54.615+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:58:54.614+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:58:54.677+0000] {processor.py:840} INFO - DAG(s) 'pokemon_extract' retrieved from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:58:54.704+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:58:54.704+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T23:58:54.754+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:58:54.753+0000] {dag.py:3954} INFO - Setting next_dagrun for pokemon_extract to 2025-05-03 10:00:00+00:00, run_after=2025-05-04 10:00:00+00:00
+[2025-05-03T23:58:54.788+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_extraction.py took 0.191 seconds
+[2025-05-03T23:59:25.831+0000] {processor.py:161} INFO - Started process (PID=553) to work on /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:59:25.833+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_extraction.py for tasks to queue
+[2025-05-03T23:59:25.839+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:59:25.838+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:59:25.879+0000] {processor.py:840} INFO - DAG(s) 'pokemon_extract' retrieved from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:59:25.898+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:59:25.898+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T23:59:25.936+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:59:25.936+0000] {dag.py:3954} INFO - Setting next_dagrun for pokemon_extract to 2025-05-03 10:00:00+00:00, run_after=2025-05-04 10:00:00+00:00
+[2025-05-03T23:59:25.971+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_extraction.py took 0.150 seconds
+[2025-05-03T23:59:56.869+0000] {processor.py:161} INFO - Started process (PID=558) to work on /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:59:56.872+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pokemon_extraction.py for tasks to queue
+[2025-05-03T23:59:56.879+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:59:56.878+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:59:56.925+0000] {processor.py:840} INFO - DAG(s) 'pokemon_extract' retrieved from /opt/airflow/dags/pokemon_extraction.py
+[2025-05-03T23:59:56.944+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:59:56.944+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T23:59:56.996+0000] {logging_mixin.py:188} INFO - [2025-05-03T23:59:56.995+0000] {dag.py:3954} INFO - Setting next_dagrun for pokemon_extract to 2025-05-03 10:00:00+00:00, run_after=2025-05-04 10:00:00+00:00
+[2025-05-03T23:59:57.031+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pokemon_extraction.py took 0.174 seconds

@@ -1,0 +1,19 @@
+[2025-05-05T14:04:42.243+0000] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2025-05-05T14:04:42.318+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: pokemon_extract.extract_pokemons scheduled__2025-05-04T10:00:00+00:00 [queued]>
+[2025-05-05T14:04:42.334+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: pokemon_extract.extract_pokemons scheduled__2025-05-04T10:00:00+00:00 [queued]>
+[2025-05-05T14:04:42.335+0000] {taskinstance.py:2306} INFO - Starting attempt 1 of 1
+[2025-05-05T14:04:42.360+0000] {taskinstance.py:2330} INFO - Executing <Task(PythonOperator): extract_pokemons> on 2025-05-04 10:00:00+00:00
+[2025-05-05T14:04:42.373+0000] {logging_mixin.py:188} WARNING - /home/***/.local/lib/python3.12/site-packages/***/task/task_runner/standard_task_runner.py:61 DeprecationWarning: This process (pid=165) is multi-threaded, use of fork() may lead to deadlocks in the child.
+[2025-05-05T14:04:42.381+0000] {standard_task_runner.py:63} INFO - Started process 166 to run task
+[2025-05-05T14:04:42.373+0000] {standard_task_runner.py:90} INFO - Running: ['***', 'tasks', 'run', 'pokemon_extract', 'extract_pokemons', 'scheduled__2025-05-04T10:00:00+00:00', '--job-id', '8', '--raw', '--subdir', 'DAGS_FOLDER/pokemon_extraction.py', '--cfg-path', '/tmp/tmp1zcuslfg']
+[2025-05-05T14:04:42.382+0000] {standard_task_runner.py:91} INFO - Job 8: Subtask extract_pokemons
+[2025-05-05T14:04:42.515+0000] {task_command.py:426} INFO - Running <TaskInstance: pokemon_extract.extract_pokemons scheduled__2025-05-04T10:00:00+00:00 [running]> on host 97a6b52a1542
+[2025-05-05T14:04:42.853+0000] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='borginho' AIRFLOW_CTX_DAG_ID='pokemon_extract' AIRFLOW_CTX_TASK_ID='extract_pokemons' AIRFLOW_CTX_EXECUTION_DATE='2025-05-04T10:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2025-05-04T10:00:00+00:00'
+[2025-05-05T14:04:42.854+0000] {taskinstance.py:430} INFO - ::endgroup::
+[2025-05-05T14:08:55.986+0000] {logging_mixin.py:188} INFO - File deleted successfully
+[2025-05-05T14:08:56.032+0000] {python.py:237} INFO - Done. Returned value was: None
+[2025-05-05T14:08:56.033+0000] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2025-05-05T14:08:56.080+0000] {taskinstance.py:1206} INFO - Marking task as SUCCESS. dag_id=pokemon_extract, task_id=extract_pokemons, run_id=scheduled__2025-05-04T10:00:00+00:00, execution_date=20250504T100000, start_date=20250505T140442, end_date=20250505T140856
+[2025-05-05T14:08:56.138+0000] {local_task_job_runner.py:240} INFO - Task exited with return code 0
+[2025-05-05T14:08:56.183+0000] {taskinstance.py:3498} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2025-05-05T14:08:56.188+0000] {local_task_job_runner.py:222} INFO - ::endgroup::

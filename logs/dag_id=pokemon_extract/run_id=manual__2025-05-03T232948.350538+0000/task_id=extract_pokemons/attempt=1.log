@@ -1,0 +1,39 @@
+[2025-05-03T23:36:38.743+0000] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2025-05-03T23:36:38.803+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: pokemon_extract.extract_pokemons manual__2025-05-03T23:29:48.350538+00:00 [queued]>
+[2025-05-03T23:36:38.818+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: pokemon_extract.extract_pokemons manual__2025-05-03T23:29:48.350538+00:00 [queued]>
+[2025-05-03T23:36:38.819+0000] {taskinstance.py:2306} INFO - Starting attempt 1 of 1
+[2025-05-03T23:36:38.843+0000] {taskinstance.py:2330} INFO - Executing <Task(PythonOperator): extract_pokemons> on 2025-05-03 23:29:48.350538+00:00
+[2025-05-03T23:36:38.854+0000] {standard_task_runner.py:90} INFO - Running: ['***', 'tasks', 'run', 'pokemon_extract', 'extract_pokemons', 'manual__2025-05-03T23:29:48.350538+00:00', '--job-id', '4', '--raw', '--subdir', 'DAGS_FOLDER/pokemon_extraction.py', '--cfg-path', '/tmp/tmpnhyssn6a']
+[2025-05-03T23:36:38.857+0000] {standard_task_runner.py:91} INFO - Job 4: Subtask extract_pokemons
+[2025-05-03T23:36:38.866+0000] {logging_mixin.py:188} WARNING - /home/***/.local/lib/python3.12/site-packages/***/task/task_runner/standard_task_runner.py:61 DeprecationWarning: This process (pid=322) is multi-threaded, use of fork() may lead to deadlocks in the child.
+[2025-05-03T23:36:38.869+0000] {standard_task_runner.py:63} INFO - Started process 323 to run task
+[2025-05-03T23:36:38.955+0000] {task_command.py:426} INFO - Running <TaskInstance: pokemon_extract.extract_pokemons manual__2025-05-03T23:29:48.350538+00:00 [running]> on host 97a6b52a1542
+[2025-05-03T23:36:39.108+0000] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='borginho' AIRFLOW_CTX_DAG_ID='pokemon_extract' AIRFLOW_CTX_TASK_ID='extract_pokemons' AIRFLOW_CTX_EXECUTION_DATE='2025-05-03T23:29:48.350538+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-05-03T23:29:48.350538+00:00'
+[2025-05-03T23:36:39.109+0000] {taskinstance.py:430} INFO - ::endgroup::
+[2025-05-03T23:41:26.936+0000] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2025-05-03T23:41:26.938+0000] {taskinstance.py:2905} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 465, in _execute_task
+    result = _execute_callable(context=context, **execute_callable_kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 432, in _execute_callable
+    return execute_callable(context=context, **execute_callable_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/baseoperator.py", line 400, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/operators/python.py", line 235, in execute
+    return_value = self.execute_callable()
+                   ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/operators/python.py", line 252, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/airflow/dags/pokemon.py", line 40, in extract_pokemn
+    with open(csvfile, "w", newline="", encoding="utf-8") as outfile:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'D:\\AIRFLOW PROJETOS\\AirflowProjeto02\\data/pokemon.csv'
+[2025-05-03T23:41:26.957+0000] {taskinstance.py:1206} INFO - Marking task as FAILED. dag_id=pokemon_extract, task_id=extract_pokemons, run_id=manual__2025-05-03T23:29:48.350538+00:00, execution_date=20250503T232948, start_date=20250503T233638, end_date=20250503T234126
+[2025-05-03T23:41:26.995+0000] {standard_task_runner.py:110} ERROR - Failed to execute job 4 for task extract_pokemons ([Errno 2] No such file or directory: 'D:\\AIRFLOW PROJETOS\\AirflowProjeto02\\data/pokemon.csv'; 323)
+[2025-05-03T23:41:27.037+0000] {local_task_job_runner.py:240} INFO - Task exited with return code 1
+[2025-05-03T23:41:27.074+0000] {taskinstance.py:3498} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2025-05-03T23:41:27.082+0000] {local_task_job_runner.py:222} INFO - ::endgroup::
