@@ -1,0 +1,20 @@
+# Pokémon ETL Pipeline com Airflow
+
+Este projeto cria uma **DAG do Apache Airflow** para extrair dados da **PokéAPI** e salvá-los em um arquivo CSV.
+
+## Funcionalidade
+- Coleta dados de Pokémon: ID, nome, status default e localização.
+- Salva os dados em `data/pokemon.csv`.
+- Executa automaticamente todos os dias às 10h (UTC).
+
+## Estrutura do Projeto
+- `dags/pokemon.py`: Função que extrai os dados da PokéAPI.
+- `dags/pokemon_extract.py`: DAG do Airflow que executa o pipeline.
+- `data/`: Diretório onde os arquivos CSV são armazenados.
+- `docker-compose.yml`: Orquestração do ambiente com Airflow e PostgreSQL.
+
+## Como rodar
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/airflow-pokemon-pipeline.git
+   cd airflow-pokemon-pipeline
